@@ -1,0 +1,12 @@
+faiss-cpu
+fastapi
+langchain
+langchain_community
+langchain_core
+langchain_huggingface
+langgraph
+pydantic
+sentence_transformers
+uuid
+uvicorn
+openai
