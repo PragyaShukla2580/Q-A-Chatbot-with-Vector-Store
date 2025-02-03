@@ -73,3 +73,18 @@ Two apis, one to store the chunks of all the documents in the folder and initiat
 ![image](https://github.com/user-attachments/assets/8bfc7046-0a9d-4616-83fc-7b070cdd99ac)
 
 
+**3. Payload in Docker (http://localhost:8080/docs#/default/query_rag_query_post) ----> Query: How can I build an ubuntu Image? -- start**
+
+
+![image](https://github.com/user-attachments/assets/0216fb9f-0bce-4a49-8a21-d0bc645b0b9b)
+
+
+**4. Response:**
+
+
+![image](https://github.com/user-attachments/assets/182d5121-62e2-44c4-9328-112b4c69b49d)
+
+
+![image](https://github.com/user-attachments/assets/7eb726aa-6cfb-4331-9809-b34db47add53)
+
+
