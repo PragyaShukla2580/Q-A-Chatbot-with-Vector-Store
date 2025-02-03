@@ -54,3 +54,22 @@ Two apis, one to store the chunks of all the documents in the folder and initiat
 
 ![image](https://github.com/user-attachments/assets/982e7a4b-1345-4099-a9d7-8d2cb2054a76)
 
+
+# Docker Container commands
+
+
+**1. Building a Docker image for the RAG FastAPI application -----> docker build -t fastapi-rag .**
+
+
+![image](https://github.com/user-attachments/assets/0844e34a-17c1-4554-aa36-8905215d50c6)
+
+
+**2. Running a Docker container from the RAG FastAPI image with a mounted volume. -----> docker run -p 8080:8080 -v "./demo_bot_data:/app/data" fastapi-rag**
+
+
+![image](https://github.com/user-attachments/assets/90df38b1-c880-4ae1-a3d8-173b7a33fea0)
+
+
+![image](https://github.com/user-attachments/assets/8bfc7046-0a9d-4616-83fc-7b070cdd99ac)
+
+
